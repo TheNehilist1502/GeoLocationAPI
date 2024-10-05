@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: geo-get
+
+geocoding:
+  api:
+    resource: https://geocode.maps.co
+    key: 66fd36e514597646876949rvwc890d9
